@@ -1,22 +1,18 @@
 ---
-name: User Story
-about: Create a user story with acceptance criteria
-title: "[Feature] "
-labels: feature
+name: 📝 User Story
+about: Describe a feature from an end‑user perspective
+title: "[USER STORY] <concise feature name>"
+labels: user story
 assignees: ''
-
 ---
 
-## User Story
-As a [user role], I want to [goal] so that [reason].
+## User story  
+As a **<type of user>**, I want **<some goal>** so that **<some reason>**.
 
-## Overview
-[Brief description of what the story will achieve.]
+## Acceptance criteria  
+- [ ] Criterion 1  
+- [ ] Criterion 2  
+- [ ] …
 
-## Acceptance Criteria
-- [ ] Clear criterion 1
-- [ ] Clear criterion 2
-- [ ] Clear criterion 3
-
-## Story Points
-[1, 2, 3, 5, 8, 13]
+## Notes / links  
+- Related epic / docs / designs:
